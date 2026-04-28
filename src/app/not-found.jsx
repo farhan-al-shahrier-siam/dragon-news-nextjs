@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const NotFoundPage = () => {
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-green-100 to-green-300 px-6">
+    <div className="min-h-screen flex items-center justify-center bg-linear-to-br from-green-100 to-green-300 px-6">
       <div className="text-center">
         <h1 className="text-7xl font-bold text-green-700 mb-4">404</h1>
 
